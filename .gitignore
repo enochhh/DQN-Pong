@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+/gym
+log20210220-105553
+SavedWeights
+1kbatch_32_pong.model
+32.log
+Models
+500batch_32_pong.model
+nGbatch_32_pong.model
